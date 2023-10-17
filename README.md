@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RawanHatem28
-- 👀 I’m interested in data science & AI 
-- 🌱 I’m currently learning data science 
+- 👀 I’m interested in Data science & AI 
+- 🌱 I’m currently learning Data science 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
